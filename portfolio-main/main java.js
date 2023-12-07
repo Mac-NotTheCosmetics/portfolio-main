@@ -1,5 +1,4 @@
 //Footer//
-//Source: https://www.w3schools.com/js/js_dates.asp//
 const d = new Date() 
 document.getElementById("date").innerHTML = d;
 
